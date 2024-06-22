@@ -1,4 +1,4 @@
-Project Overview: User Data API Flutter App
+Project Overview: User API Flutter App
 
 1. Project Name
 - **User API**
