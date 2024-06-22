@@ -57,7 +57,7 @@ Project Overview: User API Flutter App
 
 #Summary
 
-This Flutter project named "User Data API" includes three main screens: Splash, Login, and Home. The Splash Screen determines the user's login status and navigates accordingly. The Login Screen authenticates the user via an API call and provides appropriate feedback via snackbars. The Home Screen displays user data in a list format and allows the user to logout, which clears the local storage and redirects to the Login Screen. The app leverages `SharedPreferences` for storing login information to manage user sessions effectively.
+This Flutter project named "User API" includes three main screens: Splash, Login, and Home. The Splash Screen determines the user's login status and navigates accordingly. The Login Screen authenticates the user via an API call and provides appropriate feedback via snackbars. The Home Screen displays user data in a list format and allows the user to logout, which clears the local storage and redirects to the Login Screen. The app leverages `SharedPreferences` for storing login information to manage user sessions effectively.
 
 
 # userauthapi
